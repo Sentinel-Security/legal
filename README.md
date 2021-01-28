@@ -1,5 +1,4 @@
-![discord](https://img.shields.io/discord/777663160815321088?label=Discord)![followers](https://img.shields.io/github/followers/Sentinel-Security?style=social)
-![stars](https://img.shields.io/github/stars/Sentinel-Security?style=social)![follow](https://img.shields.io/twitter/follow/TheSentinelUS?style=social)
+![discord](https://img.shields.io/discord/777663160815321088?label=Discord) ![followers](https://img.shields.io/github/followers/Sentinel-Security?style=social) ![stars](https://img.shields.io/github/stars/Sentinel-Security?style=social) ![follow](https://img.shields.io/twitter/follow/TheSentinelUS?style=social)
 # Sentinel Security
 ---
 ## Who we are:
